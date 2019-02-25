@@ -12,14 +12,34 @@
   </ol>
   <div class="carousel-inner" >
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://images.pexels.com/photos/583846/pexels-photo-583846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="First slide">
+      <img class="d-block w-100" src="https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="First slide">
+     <div class="carousel-caption d-none d-md-block">
+    <h1>Best location and view in Ella</h1>
+    <p>Enjoy your holiday in x hotel </p>
+  </div>
+
+
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://images.pexels.com/photos/908284/pexels-photo-908284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Second slide">
+      <img class="d-block w-100" src="https://images.pexels.com/photos/271616/pexels-photo-271616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Second slide">
+     <div class="carousel-caption d-none d-md-block">
+    <h1>Modern and luxury room</h1>
+    <p>Enjoy your holiday in x hotel </p>
+  </div>
+
+
+
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Third slide">
+      <img class="d-block w-100" src="https://images.pexels.com/photos/827516/pexels-photo-827516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Third slide">
+     <div class="carousel-caption d-none d-md-block">
+    <h1>Book your room now</h1>
+    <p>Enjoy your holiday in x hotel </p>
+  </div>
+
+
     </div>
+   
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -95,10 +115,15 @@ khkk
 </div>
 	
 </div>
-	<div class="col-md-12 parlex">
+	<div class="col-md-12 parlex my-4">
 		<div class="row">
 			<div class="col-md-6">
-			 <img src="{{ URL::asset('images/logo.png') }}" width="50%">
+        <div class="roundimage">
+			  <img src="{{ URL::asset('images/car.png') }}" width="100%">
+        </div>
+         <div class="roundimage">
+       <img src="{{ URL::asset('images/van.png') }}" width="100%">
+        </div>
 		</div>
 		<div class="col-md-6">
 			<h2>ZAKYNTHOS - ZANTE</h2>
@@ -110,8 +135,98 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 		</div>
 		
 	</div>
-
-	
+<div class="container">
+<div class="row">
+  <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+ <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/1541733637ninearch7.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+     
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+   <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+   <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+     
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+<div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+ <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+     
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+   <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+   <div class="col-md-3">
+    
+    <div class="card my-4">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+     
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </div>
+</div>
+</div>	
 
 
 
