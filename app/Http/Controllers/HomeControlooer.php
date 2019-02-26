@@ -16,4 +16,12 @@ class HomeControlooer extends Controller
     public function rooms(){
     	return view('aboutus');
     }
+      //rooms gallery
+    public function gallery(){
+    	return view('gallery');
+    }
+      //rooms contact
+    public function contact(){
+    	return view('contact');
+    }
 }

@@ -18,3 +18,5 @@ Route::get('/', function () {
 
 Route::get('/','HomeControlooer@home');
 Route::get('/rooms','HomeControlooer@rooms');
+Route::get('/gallery','HomeControlooer@gallery');
+Route::get('/contact','HomeControlooer@contact');
