@@ -8,9 +8,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
     <link rel="stylesheet" href="{{ URL::asset('css/style.css') }}" />
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" >
     <script type="text/javascript" src="{{ URL::asset('js/my.js') }}"></script>
-<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">   
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">  
+   <link rel="stylesheet" href="{{ URL::asset('css/fluid-gallery.css') }}" />
   </head>
   <body>
  
@@ -51,7 +54,7 @@ function closeNav() {
 }
 </script>
 
-    
+
   @yield('content')
 
   <!-- Footer -->
@@ -121,5 +124,9 @@ function closeNav() {
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
   </body>
 </html>

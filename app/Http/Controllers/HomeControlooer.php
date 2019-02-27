@@ -24,4 +24,8 @@ class HomeControlooer extends Controller
     public function contact(){
     	return view('contact');
     }
+          //rooms info
+    public function info(){
+        return view('roominf');
+    }
 }
