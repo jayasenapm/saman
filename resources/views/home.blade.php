@@ -52,29 +52,34 @@
   </a>
 </div>
 <!--Caruuse end -->
-<div class="col-md-3 col-md-pull-7">
+
+<!--booking-form -->
+
+<div class="container">
+  <div class="row">
+<div class="col-md-12 col-sm-12 my-4 ">
             <div class="booking-form">
-              <form>
+              <form class="form-inline">
                 <div class="form-group">
                   <span class="form-label">Your Destination</span>
                   <input class="form-control" type="text" placeholder="Enter a destination or hotel name">
                 </div>
-                <div class="row">
-                  <div class="col-sm-6">
+               
+                  
                     <div class="form-group">
                       <span class="form-label">Check In</span>
                       <input class="form-control" type="date" required>
                     </div>
-                  </div>
-                  <div class="col-sm-6">
+                 
+                  
                     <div class="form-group">
                       <span class="form-label">Check out</span>
                       <input class="form-control" type="date" required>
                     </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-4">
+                 
+                
+                
+                  
                     <div class="form-group">
                       <span class="form-label">Rooms</span>
                       <select class="form-control">
@@ -84,46 +89,26 @@
                       </select>
                       <span class="select-arrow"></span>
                     </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="form-group">
-                      <span class="form-label">Adults</span>
-                      <select class="form-control">
-                        <option>1</option>
-                        <option>2</option>
-                        <option>3</option>
-                      </select>
-                      <span class="select-arrow"></span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="form-group">
-                      <span class="form-label">Children</span>
-                      <select class="form-control">
-                        <option>0</option>
-                        <option>1</option>
-                        <option>2</option>
-                      </select>
-                      <span class="select-arrow"></span>
-                    </div>
-                  </div>
-                </div>
+                 
+                 
+                  
+                 
+                 <div class="form-group">
+                
                 <div class="form-btn">
-                  <button class="submit-btn">Check availability</button>
+                  <button class="submit-btn">Check </button>
                 </div>
+                  </div>
               </form>
             </div>
           </div>
+</div>
+</div>
+<!--booking-form end -->
 
 
+<!--room section start from here -->
 
-
-<!--Containt start from here -->
-
-<br>
-<br>
-<br>
-<br>
 <div class="container my-4">
 	
 <div class="row">
@@ -151,7 +136,7 @@
   <img class="card-img-top" src="https://eagle-themes.com/templates/zante/images/rooms/single-room.jpg" alt="Card image cap">
  
 </div>
-khkk
+
 </div>
 </div>	
 
@@ -191,6 +176,10 @@ khkk
 </div>
 	
 </div>
+
+<!--room section end here -->
+
+<!--cab service  -->
 	<div class="col-md-12 parlex my-4">
 		<div class="row">
 			<div class="col-md-6">
@@ -211,51 +200,59 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 		</div>
 		
 	</div>
-<div class="container">
+  <!--cab service end -->
+  <!--loation -->
+<div class="container my-4">
 <div class="row">
   <div class="col-md-12" >
-    <h1 class="text-center">DISCOVER GREECE</h1>
+    <h1 class="text-center">CLOSET LOCATION</h1>
     <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
   </div>
-  <div class="col-md-3 plase">
+  <div class="col-md-3 plase ">
     
     <div class="card my-4">
+      <a href="">
     <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
-   
+      </a>
   </div>
   </div>
  <div class="col-md-6 plase">
     
     <div class="card my-4">
+       <a href="">
     <img class="card-img-top" src="https://visituva.lk/uploads/1541733637ninearch7.jpg" alt="Card image cap">
-    
+      </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
+       <a href="">
     <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
-   
+        </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
+       <a href="">
     <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
-    
+      </a>
   </div>
   </div>
 
  <div class="col-md-3 plase">
     
     <div class="card my-4">
+       <a href="">
     <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
-    
+      </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
+
     <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
     
   </div>
@@ -269,7 +266,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
   </div>
 </div>
 </div>	
-
+<!--endloation -->
 <div class='scrolltop'>
     <div class='scroll icon'><i class="fa fa-4x fa-angle-up"></i></div>
 </div>

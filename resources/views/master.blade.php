@@ -11,31 +11,51 @@
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" >
     <script type="text/javascript" src="{{ URL::asset('js/my.js') }}"></script>
-<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">  
-   <link rel="stylesheet" href="{{ URL::asset('css/fluid-gallery.css') }}" />
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css?family=Bangers|Merienda" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+    <!-- Start Bootstrap Carousel HEAD section -->
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <link rel="stylesheet" href="{{ URL::asset('css/fluid-gallery.css') }}" />
   </head>
   <body>
- 
-<div id="mySidebar" class="sidebar">
+    <a href="#" id="scroll" style="display: none;"><span></span></a>
+ <script type="text/javascript">
+   
+   $(document).ready(function(){ 
+    $(window).scroll(function(){ 
+        if ($(this).scrollTop() > 100) { 
+            $('#scroll').fadeIn(); 
+        } else { 
+            $('#scroll').fadeOut(); 
+        } 
+    }); 
+    $('#scroll').click(function(){ 
+        $("html, body").animate({ scrollTop: 0 }, 600); 
+        return false; 
+    }); 
+});
+ </script>
+  <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
   <a href="{{ URL('/') }}">HOME</a>
   <a href="{{ URL('/rooms') }}">ROOMS</a>
   <a href="{{ URL('/gallery') }}">GALLERY</a>
   
   <a href="{{ URL('/contact') }}">CONTACT</a>
-</div>
-<div class="logo">
-  <img src="{{ URL::asset('images/logo.png') }}" width="100px">
-</div>
+  </div>
+  <div class="logo">
+  <h1>ELLA HOMESTAY</h1>
+  </div>
 
     <div class="top">
     <span><i class="fas fa-phone"></i></span>1-888-123-4567
-    |<span><i class="fas fa-envelope"></i></span>youremail@gmail.com
+    <span><i class="fas fa-envelope"></i></span>youremail@gmail.com
       
     </div>
     
-</div>
+
 <div id="main">
   
   <button class="openbtn" onclick="openNav()">☰</button>  
