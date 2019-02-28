@@ -121,13 +121,13 @@
 
 	<div class="col-md-4 col-sm-12 rooms ">
 	<div class="card" style="width: 100%;">
-  <img class="card-img-top" src="https://eagle-themes.com/templates/zante/images/rooms/single-room.jpg" alt="Card image cap">
+  <img class="card-img-top" src="https://visituva.lk/Hotel/1551099596IMG_20190225_121938.jpg" alt="Card image cap">
   
 </div>
 </div>
 <div class="col-md-4 col-sm-12 rooms ">
 	<div class="card" style="width: 100%;">
-  <img class="card-img-top" src="https://eagle-themes.com/templates/zante/images/rooms/single-room.jpg" alt="Card image cap">
+  <img class="card-img-top" src="https://visituva.lk/Hotel/1551099611IMG_20190225_121918.jpg" alt="Card image cap">
   
 </div>
 </div>

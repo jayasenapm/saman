@@ -101,6 +101,26 @@ p{
 font-size: 74px;
 color: white;
 }
+.carousel ol li{
+  height: 50px;
+  width: 50px;
+  
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  border: 2px solid white;
+}
+.carousel ol li:nth-child(1) {
+  background-image: url(https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg);
+
+}
+.carousel ol li:nth-child(2) {
+  background-image: url(https://images.pexels.com/photos/271616/pexels-photo-271616.jpeg);
+  
+}
+.carousel ol li:nth-child(3) {
+  background-image: url(https://images.pexels.com/photos/827516/pexels-photo-827516.jpeg);
+  
+}
 /*animation carousel */
 .kenburns-top {
   -webkit-animation: kenburns-top 5s ease-out both;
@@ -220,6 +240,7 @@ font-family: 'Merienda', cursive;
 .card{
   width: 100%;
   overflow: hidden;
+  height: 200px;
 }
 .rooms img{
 transition: transform .5s;
@@ -613,6 +634,8 @@ float: left;
   color: yellow;
   padding: 5px;
 }
+
+
 @media only screen and (max-width: 600px) {
   body {
     
@@ -635,4 +658,13 @@ float: left;
   }
 }
 
+/*contact page*/
 
+.hedd h3{
+  background-color: #2DF0F0  ;
+  border-radius: 30px;
+  padding: 10px;
+}
+.address{
+  font-weight: 900;
+}

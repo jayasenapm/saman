@@ -10,7 +10,7 @@
 	<div class="row">
 		<div class="col-md-12 roomss my-4">
 			<div class="leftpart">
-				<img src="https://eagle-themes.com/themes/zante/wp-content/uploads/2018/05/single-720x470.jpg" width="100%">
+				<img src="https://visituva.lk/Hotel/1551099596IMG_20190225_121938.jpg" width="100%">
 			</div>
 			<div class="midpart">
 				<h3>Single Room</h3>

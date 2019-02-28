@@ -7,9 +7,11 @@
 
 </div>
 
-<div class="container">
+<div class="container my-4">
+<div class="hedd">
+  <h3 class="text-center">Contact us</h3><br />
+</div>
 
-<h3 class="text-center">Contact us</h3><br />
 
 <div class="row">
   <div class="col-md-8">
@@ -21,31 +23,35 @@
         <input class="btn btn-primary" type="submit" value="Send" /><br /><br />
       </form>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-4 address">
     <b>Customer service:</b> <br />
-    Phone: +1 129 209 291<br />
-    E-mail: <a href="mailto:support@mysite.com">support@mysite.com</a><br />
+    Phone: +94 773978000<br />
+    E-mail: <a href="mailto:support@mysite.com">samanpriyadarshana126@gmail.com</a><br />
     <br /><br />
-    <b>Headquarter:</b><br />
-    Company Inc, <br />
-    Las vegas street 201<br />
-    55001 Nevada, USA<br />
-    Phone: +1 145 000 101<br />
-    <a href="mailto:usa@mysite.com">usa@mysite.com</a><br />
+    <b>Ella Homestay:</b><br />
+   
+    Gotuwala<br />
+    Ella<br />
+    Phone: +94 077 39788000,71 2958000,72 2978000<br />
+    <a href="samanpriyadarshana126@gmail.com">samanpriyadarshana126@gmail.com</a><br />
 
 
     <br /><br />
-    <b>Hong kong:</b><br />
-    Company HK Litd, <br />
+    <b>Pasindu Cab Service:</b><br />
+    
     25/F.168 Queen<br />
-    Wan Chai District, Hong Kong<br />
-    Phone: +852 129 209 291<br />
-    <a href="mailto:hk@mysite.com">hk@mysite.com</a><br />
+   Gotuwela,Ella<br />
+     Phone: +94 077 39788000,71 2958000,72 2978000<br />
+    <a href="samanpriyadarshana126@gmail.com">samanpriyadarshana126@gmail.com</a><br />
 
 
   </div>
 </div>
-
+<div class="col-md-12">
+  <div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15844.843690152977!2d81.038592274657!3d6.86530892062021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae465955bc09a25%3A0xbdfadcdadec487fb!2sElla!5e0!3m2!1sen!2slk!4v1551313328193" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
+</div>
 </div>
 
 @endsection

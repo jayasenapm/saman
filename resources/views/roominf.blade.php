@@ -14,7 +14,7 @@
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="First slide">
+      <img class="d-block w-100" src="https://visituva.lk/Hotel/1551099596IMG_20190225_121938.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Second slide">
