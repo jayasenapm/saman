@@ -147,29 +147,29 @@
 	</div>
   <div class="col-md-4 col-sm-4 ">
     <div class="list-group" id="list-tab" role="tablist">
-      <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home"><h4><span><i class="fas fa-utensils"></i></span>Restaurant</h4>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+      <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home"><h4><span><i class="fas fa-utensils"></i></span>Sri lankan food</h4>
+        we preparing western and sri lankan food 
       </a>
-      <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile"><h4><span><i class="fas fa-cheeseburger"></i>Swimming Pool</span></h4>
-     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy 
+      <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile"><h4><span><i class="fas fa-cheeseburger"></i>Room service</span></h4>
+     we provide best service  
    </a>
-      <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Messages</a>
-      <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Settings</a>
+      <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages"><h4><span><i class="fas fa-cheeseburger"></i> Accommodation</span></h4>we provide hot water bathroom and air condition rooms
+      <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings"><h4><span><i class="fas fa-cheeseburger"></i> Arrange transport</span></h4></a>
     </div>
   </div>
   <div class="col-md-8 col-sm-8">
     <div class="tab-content" id="nav-tabContent">
       <div class="tab-pane tt fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
-      	<img src="https://eagle-themes.com/templates/zante/images/spa.jpg" width="100%">
+      	<img src="http://www.magazine.elitehavens.com/wp-content/uploads/2015/11/sri-lankan-spread-at-speakeasy.jpg" width="100%">
       </div>
       <div class="tab-pane tt fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
-      <img src="https://eagle-themes.com/templates/zante/images/swimming.jpg" width="100%">
+      <img src="https://widgety-assets.s3.amazonaws.com/2016/06/25/17/55/45/640/celebrity_cruises_celebrity_silhouette_room_service.jpg" width="100%">
   		</div>
       <div class="tab-pane tt fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
-     <img src="https://eagle-themes.com/templates/zante/images/restaurant.jpg" width="100%">
+     <img src="https://s3-production.bobvila.com/articles/wp-content/uploads/2016/11/No_Hot_Water_in_Shower.jpg" width="100%">
   		</div>
       <div class="tab-pane tt fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
-      <img src="https://eagle-themes.com/templates/zante/images/conference.jpg" width="100%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI1ukU-fpPIhyEQ1o5LOh40TFqF7Tx6NshpjaTkyM3XY78podGaQ" width="100%">
   		</div>
     </div>
   </div>
