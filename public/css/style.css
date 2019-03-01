@@ -670,3 +670,13 @@ float: left;
   font-weight: 900;
   color: #3e485c;
 }
+
+/*cab service*/
+.cab{
+  width: 100%;
+  height: 100px;
+  background-color: red;
+}
+.cab h1{
+  color: white;
+}
