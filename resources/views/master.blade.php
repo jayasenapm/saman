@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Hello, world!</title>
+    <title>Ella Homestay</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
     <link rel="stylesheet" href="{{ URL::asset('css/style.css') }}" />
@@ -15,6 +15,9 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">  
     <link href="https://fonts.googleapis.com/css?family=Bangers|Merienda" rel="stylesheet"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+
     <!-- Start Bootstrap Carousel HEAD section -->
     <link rel="stylesheet" type="text/css" href="engine1/style.css" />
     <link rel="stylesheet" href="{{ URL::asset('css/fluid-gallery.css') }}" />
@@ -42,7 +45,7 @@
   <a href="{{ URL('/') }}">HOME</a>
   <a href="{{ URL('/rooms') }}">ROOMS</a>
   <a href="{{ URL('/gallery') }}">GALLERY</a>
-  
+  <a href="{{ URL('/cab') }}">FIND CAB</a>
   <a href="{{ URL('/contact') }}">CONTACT</a>
   </div>
   <div class="logo">
@@ -50,8 +53,8 @@
   </div>
 
     <div class="top">
-    <span><i class="fas fa-phone"></i></span>1-888-123-4567
-    <span><i class="fas fa-envelope"></i></span>youremail@gmail.com
+    <span><i class="fas fa-phone"></i></span>+94 77 3978000
+    <span><i class="fas fa-envelope"></i></span>samanpriyadarshana126@gmail.com
       
     </div>
     
@@ -84,32 +87,30 @@ function closeNav() {
         <div class="col-xs-12 col-sm-4 col-md-4">
           <h5>Quick links</h5>
           <ul class="list-unstyled quick-links">
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+            <li><a href="{{ URL('/') }}"><i class="fa fa-angle-double-right"></i>Home</a></li>
+            <li><a href="{{ URL('/rooms') }}"><i class="fa fa-angle-double-right"></i>Rooms</a></li>
+            <li><a href="{{ URL('/gallery') }}"><i class="fa fa-angle-double-right"></i>Gallery</a></li>
+            <li><a href="{{ URL('/cab') }}"><i class="fa fa-angle-double-right"></i>Find Cab</a></li>
+            <li><a href="{{ URL('/contact') }}"><i class="fa fa-angle-double-right"></i>Contact</a></li>
           </ul>
         </div>
         <div class="col-xs-12 col-sm-4 col-md-4">
-          <h5>Quick links</h5>
-          <ul class="list-unstyled quick-links">
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
-          </ul>
+          <h5>Address</h5>
+        <b>Ella Homestay:</b><br />
+   
+    Gotuwala<br />
+    Ella<br />
+    Phone: +94 077 39788000,71 2958000,72 2978000<br />
+    <a href="samanpriyadarshana126@gmail.com">samanpriyadarshana126@gmail.com</a><br />
         </div>
         <div class="col-xs-12 col-sm-4 col-md-4">
-          <h5>Quick links</h5>
-          <ul class="list-unstyled quick-links">
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-            <li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
-          </ul>
+          <h5>Pasindu Cabs</h5>
+        <b>Pasindu Cab Service:</b><br />
+    
+    25/F.168 Queen<br />
+   Gotuwela,Ella<br />
+     Phone: +94 077 39788000,71 2958000,72 2978000<br />
+    <a href="samanpriyadarshana126@gmail.com">samanpriyadarshana126@gmail.com</a><br />
         </div>
       </div>
       <div class="row">

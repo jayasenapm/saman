@@ -28,4 +28,8 @@ class HomeControlooer extends Controller
     public function info(){
         return view('roominf');
     }
+    //cab services
+    public function cab(){
+        return view('findcabe');
+    }
 }

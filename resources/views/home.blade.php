@@ -13,7 +13,7 @@
   </ol>
   <div class="carousel-inner" >
     <div class="carousel-item active">
-      <img class="d-block w-100 kenburns-top" src="https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="First slide">
+      <img class="d-block w-100 kenburns-top" src="https://visituva.lk/uploads/1541733637ninearch7.jpg" alt="First slide">
      <div class="carousel-caption d-none d-md-block tracking-in-contract-bck">
     <h1 >Best location and view in Ella</h1>
     <p>Enjoy your holiday in x hotel </p>
@@ -22,12 +22,21 @@
 
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 kenburns-top" src="https://images.pexels.com/photos/271616/pexels-photo-271616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Second slide">
+      <img class="d-block w-100 kenburns-top" src="images/9.jpg" alt="Second slide">
      <div class="carousel-caption d-none d-md-block tracking-in-contract-bck">
     <h1>Modern and luxury room</h1>
     <p>Enjoy your holiday in x hotel </p>
   </div>
 
+
+
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 kenburns-top" src="images/8.jpg" alt="Third slide">
+     <div class="carousel-caption d-none d-md-block tracking-in-contract-bck">
+    <h1>Book your room now</h1>
+    <p>Enjoy your holiday in x hotel </p>
+  </div>
 
 
     </div>
@@ -113,9 +122,16 @@
 	
 <div class="row">
 
-	<div class="col-md-12 col-sm-12">
+	<div class="col-md-12 col-sm-12 ">
+    <h1 class="text-center welcome">WELCOME TO ELLA HOMESTAY</h1>
+
+    <p class="text-justify">Ella Homestay a popular Ella homestay/ guests with luxury rooms. The property also provides free Wi-Fi. The property is located at the Ella city centre and is in close proximity to the  Nine Arches Bridge, Little Adam’s Peak and the famous Ella Rock.
+
+Rooms are tastefully furnished with air conditioners, flat-screen TVs with satellite channels, tea / coffee making facility, safety deposit box and a minifridge. All bathrooms are with free toiletries and hot/cold water.
+
+At Oak Ray Ella Gap Hotel, the hotel offers free parking. Guests can choose from both buffet and a la carte at their in-house restaurant. A variety of cocktails, wines and beers can be enjoyed at the bar. Cookery classes / demonstrations can be arranged for guests as well..</p>
 		<h1 class="text-center">OUR FAVORITE ROOMS</h1>
-		<p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
+		
 	</div>
 
 
@@ -133,17 +149,17 @@
 </div>
 <div class="col-md-4 col-sm-12 rooms ">
 	<div class="card" style="width: 100%;">
-  <img class="card-img-top" src="https://eagle-themes.com/templates/zante/images/rooms/single-room.jpg" alt="Card image cap">
+  <img class="card-img-top" src="images/13.jpg" alt="Card image cap">
  
 </div>
 
 </div>
 </div>	
 
-<div class="row restaurant">
+<div class="row restaurant my-4">
 	<div class="col-md-12 col-sm-12">
 		<h1 class="text-center">OUR AWESOME SERVICES</h1>
-		<p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit</p>
+		<p class="text-justify"> After the most enriching train ride you are now in for a rewarding stay at one of the finest venues in beautiful Ella. Ella Homestay is blessed with view handpicked by nature her self. </p>
 	</div>
   <div class="col-md-4 col-sm-4 ">
     <div class="list-group" id="list-tab" role="tablist">
@@ -193,9 +209,10 @@
 		<div class="col-md-6">
 			<h2 class="text-center">PASINDU</h2>
       <h4 class="text-center">Cabs Service</h4>
-			<div class="cab">
-        <h1>RENT AT THE</h1> 
-        <h1>LOWEST PRICES</h1>   
+			<div class="cab heartbeat" >
+        <h1 class="text-center" >RENT AT THE</h1> 
+        <h1 class="text-center">LOWEST PRICES</h1> 
+        <h2 class="text-center">CALL - +94 77 3978000 / +94 71 2958000 </h2>  
       </div>
 		</div>
 
@@ -207,38 +224,39 @@
 <div class="container my-4">
 <div class="row">
   <div class="col-md-12" >
-    <h1 class="text-center">CLOSET LOCATION</h1>
-    <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
+    <h1 class="text-center">PLACES OF INTERESTS</h1>
+    <p class="text-justify">Ella is a beautiful small hillside town nestled in the southern edge of Sri Lanka’s Hill Country. Famed for its mountainous beauty, scenic landscapes, lush green valleys, fertile tea plantations, mesmerising views and plenty of fresh mountain air, Ella has an unspoilt beauty of a sleepy countryside admired by many..</p>
   </div>
   <div class="col-md-3 plase ">
     
     <div class="card my-4">
-      <a href="">
+      <a href="https://visituva.lk/Detail.php?dname=Dhowa%20Raja%20Maha%20Viharaya&Dis=Ella" target="_blank">
     <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
       </a>
   </div>
+
   </div>
  <div class="col-md-6 plase">
     
     <div class="card my-4">
-       <a href="">
-    <img class="card-img-top" src="https://visituva.lk/uploads/1541733637ninearch7.jpg" alt="Card image cap">
+       <a href="https://visituva.lk/Detail.php?dname=Dhowa%20Raja%20Maha%20Viharaya&Dis=Ella" target="_blank">
+    <img class="card-img-top" src="https://visituva.lk/uploads/Dova%20Temple2.jpg" alt="Card image cap">
       </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
-       <a href="">
-    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+       <a href="https://visituva.lk/Detail.php?dname=Little%20Adam%E2%80%99s%20Peak&Dis=Ella" target="_blank">
+    <img class="card-img-top" src="https://visituva.lk/uploads/1542611356adms3.jpg" alt="Card image cap">
         </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
-       <a href="">
-    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+       <a href="https://visituva.lk/Detail.php?dname=Demodara%20Nine%20Arch%20Bridge&Dis=Ella" target="_blank">
+    <img class="card-img-top" src="https://visituva.lk/uploads/1541733637ninearch6.jpg" alt="Card image cap">
       </a>
   </div>
   </div>
@@ -246,24 +264,25 @@
  <div class="col-md-3 plase">
     
     <div class="card my-4">
-       <a href="">
-    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
+       <a href="https://visituva.lk/Detail.php?dname=FACTORY&Dis=Ella" target="_blank">
+    <img class="card-img-top" src="https://visituva.lk/uploads/newfac.jpg" alt="Card image cap">
       </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
-
-    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
-    
+      <a href="https://visituva.lk/Detail.php?dname=Rawana%20Falls&Dis=Ella" target="_blank">
+    <img class="card-img-top" src="https://visituva.lk/uploads/1541759579rawanafall2.jpg" alt="Card image cap">
+    </a>
   </div>
   </div>
    <div class="col-md-3 plase">
     
     <div class="card my-4">
-    <img class="card-img-top" src="https://visituva.lk/uploads/Ella%20Gap1.jpg" alt="Card image cap">
-   
+      <a href="https://visituva.lk/Detail.php?dname=Rawana%20Cave&Dis=Ella" target="_blank">
+    <img class="card-img-top" src="https://visituva.lk/uploads/1542612673rvanacve1.jpg" alt="Card image cap">
+   </a>
   </div>
   </div>
 </div>

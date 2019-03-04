@@ -9,56 +9,56 @@
 
 <div class="container gallery-container">
 
-    <h1>Bootstrap 3 Gallery</h1>
+    <h1></h1>
 
-    <p class="page-description text-center">Grid Layout With Zoom Effect</p>
-    
+   
     <div class="tz-gallery">
 
         <div class="row">
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/park.jpg">
-                    <img src="../images/park.jpg" alt="Park">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/1.jpg">
+                    <img src="../images/1.jpg" alt="Park">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/bridge.jpg">
-                    <img src="../images/bridge.jpg" alt="Bridge">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/2.jpg">
+                    <img src="../images/2.jpg" alt="Bridge">
                 </a>
             </div>
-            <div class="col-sm-12 col-md-4">
-                <a class="lightbox" href="../images/tunnel.jpg">
-                    <img src="../images/tunnel.jpg" alt="Tunnel">
+           
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/6.jpg">
+                    <img src="../images/6.jpg" alt="Traffic">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/coast.jpg">
-                    <img src="../images/coast.jpg" alt="Coast">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/7.jpg">
+                    <img src="../images/7.jpg" alt="Rocks">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/rails.jpg">
-                    <img src="../images/rails.jpg" alt="Rails">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/8.jpg">
+                    <img src="../images/8.jpg" alt="Benches">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/traffic.jpg">
-                    <img src="../images/traffic.jpg" alt="Traffic">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/10.jpg">
+                    <img src="../images/10.jpg" alt="Sky">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/rocks.jpg">
-                    <img src="../images/rocks.jpg" alt="Rocks">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/11.jpg">
+                    <img src="../images/11.jpg" alt="Sky">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/benches.jpg">
-                    <img src="../images/benches.jpg" alt="Benches">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/12.jpg">
+                    <img src="../images/12.jpg" alt="Sky">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/sky.jpg">
-                    <img src="../images/sky.jpg" alt="Sky">
+            <div class="col-sm-6 col-md-4 cab">
+                <a class="lightbox" href="../images/13.jpg">
+                    <img src="../images/13.jpg" alt="Sky">
                 </a>
             </div>
         </div>

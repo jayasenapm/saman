@@ -21,3 +21,4 @@ Route::get('/rooms','HomeControlooer@rooms');
 Route::get('/gallery','HomeControlooer@gallery');
 Route::get('/contact','HomeControlooer@contact');
 Route::get('/info','HomeControlooer@info');
+Route::get('/cab','HomeControlooer@cab');
