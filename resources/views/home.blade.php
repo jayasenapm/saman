@@ -13,7 +13,7 @@
   </ol>
   <div class="carousel-inner" >
     <div class="carousel-item active">
-      <img class="d-block w-100 kenburns-top" src="https://visituva.lk/uploads/1541733637ninearch7.jpg" alt="First slide">
+      <img class="d-block w-100 kenburns-top" src="http://a1travels.lk/wp/wp-content/uploads/2018/09/dunhinda-1.jpg" alt="First slide">
      <div class="carousel-caption d-none d-md-block tracking-in-contract-bck">
     <h1 >Best location and view in Ella</h1>
     <p>Enjoy your holiday in x hotel </p>
@@ -41,7 +41,7 @@
 
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 kenburns-top" src="https://images.pexels.com/photos/827516/pexels-photo-827516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Third slide">
+      <img class="d-block w-100 kenburns-top" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Dunhinda.jpg" alt="Third slide">
      <div class="carousel-caption d-none d-md-block tracking-in-contract-bck">
     <h1>Book your room now</h1>
     <p>Enjoy your holiday in x hotel </p>
